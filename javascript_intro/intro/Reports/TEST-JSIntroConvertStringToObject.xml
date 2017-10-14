@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="JSIntro-ConvertStringToObject" errors="0" tests="4" failures="0" time="0" timestamp="2017-02-10T19:43:28">
+  <testcase classname="JSIntro-ConvertStringToObject" name="should return null" time="0"></testcase>
+  <testcase classname="JSIntro-ConvertStringToObject" name="should return object" time="0"></testcase>
+  <testcase classname="JSIntro-ConvertStringToObject" name="should return object" time="0"></testcase>
+  <testcase classname="JSIntro-ConvertStringToObject" name="should handle incorrectly formatted strings" time="0"></testcase>
+</testsuite>
+</testsuites>

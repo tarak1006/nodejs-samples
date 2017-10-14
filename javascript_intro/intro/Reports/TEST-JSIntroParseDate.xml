@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="JSIntro-ParseDate" errors="0" tests="2" failures="0" time="0" timestamp="2017-02-10T19:43:28">
+  <testcase classname="JSIntro-ParseDate" name="should return nothing" time="0"></testcase>
+  <testcase classname="JSIntro-ParseDate" name="should return a Date instance" time="0"></testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="JSIntro-ConvertNumberToString" errors="0" tests="3" failures="0" time="0" timestamp="2017-02-10T19:43:28">
+  <testcase classname="JSIntro-ConvertNumberToString" name="should return 5.6" time="0"></testcase>
+  <testcase classname="JSIntro-ConvertNumberToString" name="should return -123" time="0"></testcase>
+  <testcase classname="JSIntro-ConvertNumberToString" name="should return nothing" time="0"></testcase>
+</testsuite>
+</testsuites>

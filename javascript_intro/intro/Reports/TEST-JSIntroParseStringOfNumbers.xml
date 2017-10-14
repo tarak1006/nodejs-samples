@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="JSIntro-ParseStringOfNumbers" errors="0" tests="5" failures="0" time="0" timestamp="2017-02-10T19:43:28">
+  <testcase classname="JSIntro-ParseStringOfNumbers" name="should return empty array" time="0"></testcase>
+  <testcase classname="JSIntro-ParseStringOfNumbers" name="should return empty array" time="0"></testcase>
+  <testcase classname="JSIntro-ParseStringOfNumbers" name="should return [100]" time="0"></testcase>
+  <testcase classname="JSIntro-ParseStringOfNumbers" name="should return [1,5.0,-100]" time="0"></testcase>
+  <testcase classname="JSIntro-ParseStringOfNumbers" name="should return [1,NaN,-100]" time="0"></testcase>
+</testsuite>
+</testsuites>
